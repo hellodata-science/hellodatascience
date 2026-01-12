@@ -10,8 +10,7 @@
 **hellodatascience** is a package to supplement the upcoming open-access
 [Hello Data Science book](https://www.bayesrulesbook.com/). It contains
 datasets that are used in the book. You can find documentation on the
-[package
-website](https://hellodata-science.github.io/hellodatascience/docs/).
+[package website](https://hellodata-science.github.io/hellodatascience).
 
 <hr>
 
