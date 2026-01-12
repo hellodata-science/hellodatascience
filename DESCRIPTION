@@ -1,6 +1,6 @@
 Package: hellodatascience
 Type: Package
-Title: Datasets and Supplemental Functions from the Hello Data Science Book
+Title: Datasets from the Hello Data Science Book
 Version: 0.1.0
 Authors@R: c(
     person("Mine", "Dogucu", , "mdogucu@gmail.com", c("aut", "cre"), comment = c(ORCID = "0000-0002-8007-934X")), 
