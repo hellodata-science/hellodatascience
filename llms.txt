@@ -13,7 +13,11 @@ datasets that are used in the book. You can find documentation on the
 
 ## Installation
 
-The package is on its way to CRAN
+You can install `hellodatascience` from CRAN.
+
+``` r
+install.packages("hellodatascience") 
+```
 
 You can install the development version from GitHub. You would also need
 to install the devtools package if you do not have it installed already.
