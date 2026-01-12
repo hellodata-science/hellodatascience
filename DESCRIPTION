@@ -4,7 +4,7 @@ Title: Datasets from the Hello Data Science Book
 Version: 0.1.0
 Authors@R: c(
     person("Mine", "Dogucu", , "mdogucu@gmail.com", c("aut", "cre"), comment = c(ORCID = "0000-0002-8007-934X")), 
-    person("Catalina", "Medina", , role = "aut"),
+    person("Catalina", "Medina", , role = "aut", comment = c(ORCID = "0000-0003-2847-8180")),
     person("Alma", "Castro", , role = "aut")
     )
 Description: Provides datasets used for analysis 
