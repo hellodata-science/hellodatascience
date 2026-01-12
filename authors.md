@@ -5,7 +5,7 @@
 - **Mine Dogucu**. Author, maintainer.
   [](https://orcid.org/0000-0002-8007-934X)
 
-- **Catalina Medina**. Author.
+- **Catalina Medina**. Author. [](https://orcid.org/0000-0003-2847-8180)
 
 - **Alma Castro**. Author.
 
