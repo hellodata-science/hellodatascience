@@ -2,7 +2,7 @@
 
 📦 R package for Supplemental Materials for the Hello Data Science Book
 
-# bayesrules
+# hellodatascience
 
 **hellodatascience** is a package to supplement the upcoming open-access
 [Hello Data Science book](https://www.bayesrulesbook.com/). It contains
