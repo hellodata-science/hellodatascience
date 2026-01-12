@@ -7,7 +7,7 @@ Authors@R: c(
     person("Catalina", "Medina", , role = "aut"),
     person("Alma", "Castro", , role = "aut")
     )
-Description: The package provides datasets used for analysis 
+Description: Provides datasets used for analysis 
   and visualizations in the open-access Hello Data Science book. 
 License: GPL (>= 3)
 Encoding: UTF-8
