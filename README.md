@@ -5,7 +5,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# bayesrules <img src="man/figures/logo.png" align="right" alt="a hex shaped logo with green, pink, and yellow scatterplot points in the background. There is text that reads Hello Data Science" width="120" />
+# hellodatascience <img src="man/figures/logo.png" align="right" alt="a hex shaped logo with green, pink, and yellow scatterplot points in the background. There is text that reads Hello Data Science" width="120" />
 
 **hellodatascience** is a package to supplement the upcoming open-access
 [Hello Data Science book](https://www.bayesrulesbook.com/). It contains
