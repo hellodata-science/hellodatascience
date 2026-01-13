@@ -79,4 +79,4 @@ country in a specific year.
 Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2015), "The
 Next Generation of the Penn World Table" American Economic Review,
 105(10), 3150-3182, available for download at
-[www.ggdc.net/pwt](https://hellodata-science.github.io/hellodatascience/reference/www.ggdc.net/pwt).
+<http://www.ggdc.net/pwt/>.
