@@ -12,7 +12,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/hellodata-science/hellodatascience/blob/main/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/hellodata-science/hellodatascience/blob/0.1.0/DESCRIPTION)
 
 Dogucu M, Medina C, Castro A (2026). *hellodatascience: Datasets from
 the Hello Data Science Book*. R package version 0.1.0,
