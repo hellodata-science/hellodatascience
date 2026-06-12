@@ -16,6 +16,7 @@ website](https://hellodata-science.github.io/hellodatascience/).
 You can install `hellodatascience` from CRAN.
 
 ``` r
+
 install.packages("hellodatascience") 
 ```
 
@@ -23,6 +24,7 @@ You can install the development version from GitHub. You would also need
 to install the devtools package if you do not have it installed already.
 
 ``` r
+
 #install.packages("devtools") 
 devtools::install_github("hellodata-science/hellodatascience")
 ```
@@ -33,6 +35,15 @@ devtools::install_github("hellodata-science/hellodatascience")
 
 - [`atus_college`](https://hellodata-science.github.io/hellodatascience/reference/atus_college.md)
   : ATUS (American Time Use Survey) College/University Student Data
+- [`confederations`](https://hellodata-science.github.io/hellodatascience/reference/confederations.md)
+  : FIFA Confederations Data
+- [`country_capital`](https://hellodata-science.github.io/hellodatascience/reference/country_capital.md)
+  : FIFA World Cup 2026 Country and Capital Data
+- [`country_rank`](https://hellodata-science.github.io/hellodatascience/reference/country_rank.md)
+  : FIFA World Cup 2026 Country and Ranking Data
+- [`mx_us_wc_ranks`](https://hellodata-science.github.io/hellodatascience/reference/mx_us_wc_ranks.md)
+  : Mexico's and the United States' World Cup Participation Rankings
+  Data
 - [`penn_world`](https://hellodata-science.github.io/hellodatascience/reference/penn_world.md)
   : Penn World Data
 - [`planets`](https://hellodata-science.github.io/hellodatascience/reference/planets.md)

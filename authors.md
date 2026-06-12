@@ -12,16 +12,16 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/hellodata-science/hellodatascience/blob/0.1.0/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/hellodata-science/hellodatascience/blob/main/DESCRIPTION)
 
 Dogucu M, Medina C, Castro A (2026). *hellodatascience: Datasets from
-the Hello Data Science Book*. R package version 0.1.0,
+the Hello Data Science Book*. R package version 0.1.1,
 <https://hellodata-science.github.io/hellodatascience/>.
 
     @Manual{,
       title = {hellodatascience: Datasets from the Hello Data Science Book},
       author = {Mine Dogucu and Catalina Medina and Alma Castro},
       year = {2026},
-      note = {R package version 0.1.0},
+      note = {R package version 0.1.1},
       url = {https://hellodata-science.github.io/hellodatascience/},
     }

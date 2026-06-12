@@ -1,0 +1,34 @@
+# FIFA World Cup 2026 Country and Ranking Data
+
+The data was scraped from Whereig website
+<https://www.whereig.com/football/fifa-world-rankings.html/> and
+contains information on the Men's FIFA World Cup 2026 qualifying teams
+and ranking data as of 01 April 2026
+
+## Usage
+
+``` r
+country_rank
+```
+
+## Format
+
+A data frame with 7 rows and 3 variables. Each row represents a country
+men's soccer team that qualified for the FIFA World Cup 2026.
+
+- country:
+
+  name of the country soccer team
+
+- fifa_rank:
+
+  FIFA world ranking as of April, 2026
+
+- confederation:
+
+  region/continent association affiliated to FIFA
+
+## Source
+
+Whereig editors (2026).
+<https://www.whereig.com/football/fifa-world-rankings.html/>.
