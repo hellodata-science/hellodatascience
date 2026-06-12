@@ -15,13 +15,13 @@ A data frame with 5 rows and 3 variables. Each row represents a country men's so
 \source{
 (2026). \url{https://theworlddata.com/world-population-by-country/}.
 
-(2025). \url{https://www.worlddata.info/capital-cities.php/}.
+(2025). \url{https://www.worlddata.info/capital-cities.php}.
 }
 \usage{
 country_capital
 }
 \description{
 The data was obtained from The World Data website \url{https://theworlddata.com/world-population-by-country/} which contains information on the Men's FIFA World Cup 2026 qualifying teams and their 2025 population, 
-and from the WorldData.info website \url{https://www.worlddata.info/capital-cities.php/} which contains information on the capital cities of all countries.
+and from the WorldData.info website \url{https://www.worlddata.info/capital-cities.php} which contains information on the capital cities of all countries.
 }
 \keyword{datasets}
