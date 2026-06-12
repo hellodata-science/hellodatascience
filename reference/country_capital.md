@@ -4,7 +4,7 @@ The data was obtained from The World Data website
 <https://theworlddata.com/world-population-by-country/> which contains
 information on the Men's FIFA World Cup 2026 qualifying teams and their
 2025 population, and from the WorldData.info website
-<https://www.worlddata.info/capital-cities.php/> which contains
+<https://www.worlddata.info/capital-cities.php> which contains
 information on the capital cities of all countries.
 
 ## Usage
@@ -35,4 +35,4 @@ men's soccer team that qualified for the FIFA World Cup 2026.
 
 (2026). <https://theworlddata.com/world-population-by-country/>.
 
-(2025). <https://www.worlddata.info/capital-cities.php/>.
+(2025). <https://www.worlddata.info/capital-cities.php>.
